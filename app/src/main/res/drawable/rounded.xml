@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#1244F5" /> <!-- Define a cor de fundo transparente -->
+    <corners android:radius="20dp" /> <!-- Define o raio do arredondamento das bordas -->
+</shape>
